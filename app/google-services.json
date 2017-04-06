@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749608356468",
+    "firebase_url": "https://authudc.firebaseio.com",
+    "project_id": "authudc",
+    "storage_bucket": "authudc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749608356468:android:d37bf7e67423d82e",
+        "android_client_info": {
+          "package_name": "com.dramoscuello.udc_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749608356468-q2n9fajnghk0hu2g4gjvmm52cpvag12j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9Zt2HAwVB03f3AUqgPMqsM8DrO5XGjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
